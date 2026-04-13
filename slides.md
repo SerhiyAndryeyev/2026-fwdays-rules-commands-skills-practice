@@ -167,7 +167,7 @@ layout: default
 | **Cursor** | <span class="text-yellow-400">Good</span> | <span class="text-emerald-400">Excellent</span> | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> |
 | **Codex** | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> |
 | **Claude Code** | <span class="text-teal-400 font-bold">Best</span> | <span class="text-yellow-400">Good</span> | <span class="text-teal-400 font-bold">Best</span> | <span class="text-yellow-400">Good</span> |
-| **Antigravity** | <span class="text-orange-400">Fair</span> | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> |
+| **Antigravity** | <span class="text-orange-400">Rising Star</span> | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> | <span class="text-yellow-400">Good</span> |
 
 </div>
 
