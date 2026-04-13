@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+.vite-inspect/
+.remote-assets/
+
+# Generated files
+components.d.ts
+*.local
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Специфіка редакторів та систем
+.history/
+.vscode/
+.antigravity/
+.idea/
+.eslintcache
+.env
+.env.local
